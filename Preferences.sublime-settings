@@ -1,0 +1,59 @@
+{
+	"auto_complete_commit_on_tab": false,
+	"color_scheme": "Packages/Base16/base16-default.dark.tmTheme",
+	"detect_slow_plugins": false,
+	"ensure_newline_at_eof_on_save": true,
+	"fade_fold_buttons": false,
+	"font_options":
+	[
+		"subpixel_antialias"
+	],
+	"font_size": 10,
+	"ignored_packages":
+	[
+		"Vintage",
+		"SublimeLinter",
+		"Git",
+		"SublimeCodeIntel"
+	],
+	"indent_guide_options":
+	[
+		"draw_active"
+	],
+	"margin": 0,
+	"rulers":
+	[
+		80,
+		100
+	],
+	"spell_check": false,
+	"tab_size": 2,
+	"theme": "Soda Dark.sublime-theme",
+	"todo":
+	{
+		"core_patterns":
+		{
+			"TODO": "TODO[\\s]*?:+(?P<todo>.*)$"
+		},
+		"file_exclude_patterns":
+		[
+			"*.py",
+			"*ngular*.js"
+		],
+		"folder_exclude_patterns":
+		[
+			"system",
+			"application/vendor",
+			"application/logs",
+			"application/cache",
+			"node_modules",
+			"modules"
+		],
+		"patterns":
+		{
+			"TODO": "TODO[\\s]*?:+(?P<todo>.*)$"
+		}
+	},
+	"translate_tabs_to_spaces": false,
+	"trim_trailing_white_space_on_save": false
+}

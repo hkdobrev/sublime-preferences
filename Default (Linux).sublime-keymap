@@ -1,0 +1,45 @@
+[
+	{ "keys": ["ctrl+alt+t"], "command": "transpose" },
+	{ "keys": ["ctrl+t"], "command": "show_overlay", "args": {"overlay": "goto", "show_files": true} },
+	{ "keys": ["ctrl+e"], "command": "run_macro_file", "args": {"file": "Packages/Default/Delete Line.sublime-macro"} },
+	{ "keys": ["ctrl+shift+w"], "command": "close_all" },
+	{ "keys": ["ctrl+alt+s"], "command": "prompt_save_as" },
+	{ "keys": ["ctrl+shift+s"], "command": "save_all" },
+	{ "keys": ["ctrl+alt+m"], "command": "markdown_preview" },
+	{ "keys": ["ctrl+shift+q"], "command": "toggle_side_bar" },
+	{ "keys": ["ctrl+shift+6"], "command": "todo" },
+	{
+        "keys": ["n"], "command": "navigate_results",
+        "context": [
+            {"key": "setting.command_mode", "operand": true}
+            // {"key": "setting.todo_results"}
+        ],
+        "args": {"direction": "forward"}
+    },
+
+    {
+        "keys": ["p"], "command": "navigate_results",
+        "context": [
+            {"key": "setting.command_mode", "operand": true}
+            // {"key": "setting.todo_results"}
+        ],
+        "args": {"direction": "backward"}
+    },
+
+    {
+        "keys": ["c"], "command": "clear_selection",
+        "context": [
+            {"key": "setting.command_mode", "operand": true}
+            // {"key": "setting.todo_results"}
+        ]
+    },
+
+    {
+        "keys": ["enter"], "command": "goto_comment",
+        "context": [
+            {"key": "setting.command_mode", "operand": true}
+            // {"key": "setting.todo_results"}
+        ]
+    }
+
+]
