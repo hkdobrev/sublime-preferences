@@ -1,1 +1,5 @@
-GitHub.sublime-settings
+*.cache
+*.ca-bundle
+*.ca-list
+*.last-run
+Gist.sublime-settings

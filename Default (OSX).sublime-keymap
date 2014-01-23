@@ -1,2 +1,19 @@
 [
+	{ "keys": ["super+m"], "command": "goto_definition" },
+	{ "keys": ["super+."], "command": "goto_symbol_in_project" },
+	{ "keys": ["super+h"], "command": "slurp_find_string" },
+	{ "keys": ["super+e"], "command": "run_macro_file", "args": {"file": "res://Packages/Default/Delete Line.sublime-macro"} },
+	{ "keys": ["ctrl+shift+r"], "command": "reveal_in_side_bar" },
+	{ "keys": ["super+shift+r"], "command": "side_bar_rename"},
+	{ "keys": ["super+alt+w"], "command": "close_all" },
+	{ "keys": ["super+alt+w"], "command": "toggle_whole_word", "panel": "find", "context":
+		[
+			{ "key": "setting.is_widget", "operator": "equal", "operand": true }
+		]
+	},
+	{ "keys": ["super+alt+w"], "command": "toggle_whole_word", "panel": "find_in_files", "context":
+		[
+			{ "key": "setting.is_widget", "operator": "equal", "operand": true }
+		]
+	}
 ]
