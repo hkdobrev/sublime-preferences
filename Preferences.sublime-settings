@@ -6,6 +6,7 @@
 	"caret_extra_width": 1,
 	"caret_style": "phase",
 	"color_scheme": "Packages/Theme - Spacegray/base16-ocean.dark.tmTheme",
+	"default_line_ending": "unix",
 	"detect_slow_plugins": true,
 	"ensure_newline_at_eof_on_save": false,
 	"fade_fold_buttons": true,
