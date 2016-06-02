@@ -1,9 +1,9 @@
 {
-	"draw_centered": true,
-	"font_size": 22,
-	"gutter": false,
-	"line_numbers": false,
-	"scroll_past_end": true,
-	"word_wrap": true,
-	"wrap_width": 80
+    "draw_centered": true,
+    "font_size": 22,
+    "gutter": false,
+    "line_numbers": false,
+    "scroll_past_end": true,
+    "word_wrap": true,
+    "wrap_width": 80
 }

@@ -1,54 +1,54 @@
 {
-	"always_show_minimap_viewport": true,
-	"bold_folder_labels": true,
-	"caret_extra_bottom": 1,
-	"caret_extra_top": 1,
-	"caret_extra_width": 1,
-	"caret_style": "phase",
-	"color_scheme": "Packages/Theme - Spacegray/base16-ocean.dark.tmTheme",
-	"default_line_ending": "unix",
-	"detect_slow_plugins": true,
-	"dictionary": "Packages/Language - English/en_GB.dic",
-	"ensure_newline_at_eof_on_save": false,
-	"fade_fold_buttons": true,
-	"find_selected_text": true,
-	"font_face": "SourceCodePro-Regular",
-	"font_options":
-	[
-		"subpixel_antialias"
-	],
-	"font_size": 15,
-	"highlight_line": true,
-	"highlight_modified_tabs": true,
-	"ignored_packages":
-	[
-		"CSS",
-		"Markdown",
-		"SublimeLinter",
-		"Vintage"
-	],
-	"indent_guide_options":
-	[
-		"draw_normal",
-		"draw_active"
-	],
-	"line_padding_bottom": 1,
-	"line_padding_top": 1,
-	"margin": 0,
-	"overlay_scroll_bars": "enabled",
-	"rulers":
-	[
-		80,
-		81,
-		120
-	],
-	"scroll_past_end": true,
-	"show_tab_close_buttons": false,
-	"spell_check": false,
-	"tab_size": 4,
-	"theme": "Spacegray.sublime-theme",
-	"translate_tabs_to_spaces": true,
-	"trim_trailing_white_space_on_save": false,
-	"word_wrap": false,
-	"wrap_width": 80
+    "always_show_minimap_viewport": true,
+    "bold_folder_labels": true,
+    "caret_extra_bottom": 1,
+    "caret_extra_top": 1,
+    "caret_extra_width": 1,
+    "caret_style": "phase",
+    "color_scheme": "Packages/Theme - Spacegray/base16-ocean.dark.tmTheme",
+    "default_line_ending": "unix",
+    "detect_slow_plugins": true,
+    "dictionary": "Packages/Language - English/en_GB.dic",
+    "ensure_newline_at_eof_on_save": false,
+    "fade_fold_buttons": true,
+    "find_selected_text": true,
+    "font_face": "SourceCodePro-Regular",
+    "font_options":
+    [
+        "subpixel_antialias"
+    ],
+    "font_size": 15,
+    "highlight_line": true,
+    "highlight_modified_tabs": true,
+    "ignored_packages":
+    [
+        "CSS",
+        "Markdown",
+        "SublimeLinter",
+        "Vintage"
+    ],
+    "indent_guide_options":
+    [
+        "draw_normal",
+        "draw_active"
+    ],
+    "line_padding_bottom": 1,
+    "line_padding_top": 1,
+    "margin": 0,
+    "overlay_scroll_bars": "enabled",
+    "rulers":
+    [
+        80,
+        81,
+        120
+    ],
+    "scroll_past_end": true,
+    "show_tab_close_buttons": false,
+    "spell_check": false,
+    "tab_size": 4,
+    "theme": "Spacegray.sublime-theme",
+    "translate_tabs_to_spaces": true,
+    "trim_trailing_white_space_on_save": false,
+    "word_wrap": false,
+    "wrap_width": 80
 }

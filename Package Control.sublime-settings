@@ -1,37 +1,37 @@
 {
-	"auto_upgrade_last_run": null,
-	"bootstrapped": true,
-	"in_process_packages":
-	[
-	],
-	"installed_packages":
-	[
-		"AlignTab",
-		"All Autocomplete",
-		"CSS3",
-		"CSV",
-		"DocBlockr",
-		"EditorConfig",
-		"Emmet",
-		"FileDiffs",
-		"Gist",
-		"Git Config",
-		"GitGutter",
-		"GitHub Flavored Markdown Preview",
-		"Increment Selection",
-		"INI",
-		"LESS",
-		"Markdown Extended",
-		"Package Control",
-		"Pretty JSON",
-		"Sass",
-		"SideBarEnhancements",
-		"sublime-github",
-		"SublimeLinter",
-		"Theme - Spacegray",
-		"ToggleQuotes",
-		"TOML",
-		"TrailingSpaces",
-		"Xdebug Client"
-	]
+    "auto_upgrade_last_run": null,
+    "bootstrapped": true,
+    "in_process_packages":
+    [
+    ],
+    "installed_packages":
+    [
+        "AlignTab",
+        "All Autocomplete",
+        "CSS3",
+        "CSV",
+        "DocBlockr",
+        "EditorConfig",
+        "Emmet",
+        "FileDiffs",
+        "Gist",
+        "Git Config",
+        "GitGutter",
+        "GitHub Flavored Markdown Preview",
+        "Increment Selection",
+        "INI",
+        "LESS",
+        "Markdown Extended",
+        "Package Control",
+        "Pretty JSON",
+        "Sass",
+        "SideBarEnhancements",
+        "sublime-github",
+        "SublimeLinter",
+        "Theme - Spacegray",
+        "ToggleQuotes",
+        "TOML",
+        "TrailingSpaces",
+        "Xdebug Client"
+    ]
 }

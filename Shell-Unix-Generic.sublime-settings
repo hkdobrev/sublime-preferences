@@ -1,18 +1,18 @@
 {
-	"extensions":
-	[
-		".inputrc",
-		".bash_prompt",
-		".cask",
-		".curlrc",
-		".exports",
-		".functions",
-		".hushlogin",
-		".path",
-		".screenrc",
-		".wgetrc",
-		".aliases",
-		".htaccess",
-		".gitattributes"
-	]
+    "extensions":
+    [
+        ".inputrc",
+        ".bash_prompt",
+        ".cask",
+        ".curlrc",
+        ".exports",
+        ".functions",
+        ".hushlogin",
+        ".path",
+        ".screenrc",
+        ".wgetrc",
+        ".aliases",
+        ".htaccess",
+        ".gitattributes"
+    ]
 }
