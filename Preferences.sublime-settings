@@ -8,6 +8,7 @@
 	"color_scheme": "Packages/Theme - Spacegray/base16-ocean.dark.tmTheme",
 	"default_line_ending": "unix",
 	"detect_slow_plugins": true,
+	"dictionary": "Packages/Language - English/en_GB.dic",
 	"ensure_newline_at_eof_on_save": false,
 	"fade_fold_buttons": true,
 	"find_selected_text": true,
