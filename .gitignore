@@ -3,3 +3,6 @@
 *.ca-list
 *.last-run
 Gist.sublime-settings
+Xdebug.breakpoints
+Xdebug.sublime-settings
+PHPUnit.sublime-settings
