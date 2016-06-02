@@ -12,6 +12,7 @@
 		".screenrc",
 		".wgetrc",
 		".aliases",
-		".htaccess"
+		".htaccess",
+		".gitattributes"
 	]
 }
