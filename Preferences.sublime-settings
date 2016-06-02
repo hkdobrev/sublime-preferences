@@ -11,15 +11,10 @@
 	"font_size": 15,
 	"ignored_packages":
 	[
-		"Vintage",
-		"MarkdownEditing",
+		"CSS",
 		"Markdown",
-		"PHP Code Coverage",
 		"SublimeLinter",
-		"AutoPHPDollar",
-		"PHPUnit",
-		"Markdown Preview",
-		"Git"
+		"Vintage"
 	],
 	"indent_guide_options":
 	[
