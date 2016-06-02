@@ -1,0 +1,17 @@
+{
+    "folders":
+    [
+        {
+            "file_exclude_patterns":
+            [
+                "Package Control.*-ca-bundle",
+                "Package Control.last-run"
+            ],
+            "folder_exclude_patterns":
+            [
+                "Package Control.cache"
+            ],
+            "path": "."
+        }
+    ]
+}
