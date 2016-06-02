@@ -1,5 +1,5 @@
 *.cache
-*.ca-bundle
+*-bundle
 *.ca-list
 *.last-run
 Gist.sublime-settings
