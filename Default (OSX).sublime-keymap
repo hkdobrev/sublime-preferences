@@ -15,5 +15,7 @@
         [
             { "key": "setting.is_widget", "operator": "equal", "operand": true }
         ]
-    }
+    },
+    { "keys": ["super+v"], "command": "paste_and_indent"},
+    { "keys": ["super+shift+v"], "command": "paste"}
 ]
