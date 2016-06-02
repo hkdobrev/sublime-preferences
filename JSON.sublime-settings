@@ -1,6 +1,7 @@
 {
 	"extensions":
 	[
-		"lock"
+                "lock",
+                ".mention-bot"
 	]
 }
