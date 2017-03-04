@@ -11,6 +11,7 @@
         "CSS3",
         "CSV",
         "DocBlockr",
+        "Doctrine Snippets",
         "EditorConfig",
         "Emmet",
         "FileDiffs",
@@ -18,10 +19,16 @@
         "Git Config",
         "GitGutter",
         "GitHub Flavored Markdown Preview",
+        "Goto Usage",
+        "HTML Mustache",
         "Increment Selection",
+        "Incrementor",
         "INI",
+        "JSX",
         "LESS",
+        "Liquid",
         "Markdown Extended",
+        "Monokai - Spacegray",
         "Package Control",
         "Pretty JSON",
         "Sass",
@@ -32,6 +39,7 @@
         "ToggleQuotes",
         "TOML",
         "TrailingSpaces",
+        "Twig",
         "Xdebug Client"
     ]
 }
