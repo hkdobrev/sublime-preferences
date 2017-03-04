@@ -17,5 +17,7 @@
         ]
     },
     { "keys": ["super+v"], "command": "paste_and_indent"},
-    { "keys": ["super+shift+v"], "command": "paste"}
+    { "keys": ["super+shift+v"], "command": "paste"},
+    { "keys": ["ctrl+alt+left"], "command": "move", "args": {"by": "subwords", "forward": false} },
+    { "keys": ["ctrl+alt+right"], "command": "move", "args": {"by": "subword_ends", "forward": true} }
 ]
