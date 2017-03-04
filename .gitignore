@@ -2,6 +2,7 @@
 *-bundle
 *.ca-list
 *.crt
+*.dic
 *.last-run
 Gist.sublime-settings
 Xdebug.breakpoints
