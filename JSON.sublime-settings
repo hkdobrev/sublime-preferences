@@ -2,6 +2,7 @@
     "extensions":
     [
         "lock",
-        ".mention-bot"
+        ".mention-bot",
+        "webmanifest"
     ]
 }
