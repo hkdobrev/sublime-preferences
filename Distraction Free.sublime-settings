@@ -3,6 +3,8 @@
     "font_size": 24,
     "gutter": false,
     "line_numbers": false,
+    "rulers": [
+    ],
     "scroll_past_end": true,
     "word_wrap": true,
     "wrap_width": 80
