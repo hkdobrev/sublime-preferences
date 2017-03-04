@@ -1,11 +1,11 @@
 {
     "draw_centered": true,
-    "font_size": 24,
+    "font_size": 30,
     "gutter": false,
     "line_numbers": false,
     "rulers": [
     ],
     "scroll_past_end": true,
-    "word_wrap": true,
-    "wrap_width": 80
+    "word_wrap": false,
+    "wrap_width": 100
 }
