@@ -1,5 +1,7 @@
 {
     "always_show_minimap_viewport": true,
+    "animation_enabled": false,
+    "auto_complete_cycle": true,
     "bold_folder_labels": true,
     "caret_extra_bottom": 1,
     "caret_extra_top": 1,
@@ -9,6 +11,7 @@
     "default_line_ending": "unix",
     "detect_slow_plugins": true,
     "dictionary": "Packages/Language - English/en_GB.dic",
+    "draw_minimap_border": true,
     "ensure_newline_at_eof_on_save": false,
     "fade_fold_buttons": true,
     "find_selected_text": true,
@@ -17,13 +20,15 @@
     [
         "subpixel_antialias"
     ],
-    "font_size": 15,
+    "font_size": 14,
     "highlight_line": true,
     "highlight_modified_tabs": true,
     "ignored_packages":
     [
+        "ActionScript",
         "CSS",
-        "Markdown",
+        "Goto Usage",
+        "Markdown Extended",
         "SublimeLinter",
         "Vintage"
     ],
@@ -32,18 +37,28 @@
         "draw_normal",
         "draw_active"
     ],
+    "index_exclude_patterns":
+    [
+        "*.log",
+        "Makefile"
+    ],
     "line_padding_bottom": 1,
     "line_padding_top": 1,
     "margin": 0,
+    "match_brackets_angle": true,
     "overlay_scroll_bars": "enabled",
     "rulers":
     [
         80,
-        81,
         120
     ],
+    "save_on_focus_lost": true,
     "scroll_past_end": true,
+    "shift_tab_unindent": true,
+    "show_encoding": true,
+    "show_line_endings": true,
     "show_tab_close_buttons": false,
+    "spacegray_fileicons": true,
     "spell_check": false,
     "tab_size": 4,
     "theme": "Spacegray.sublime-theme",
